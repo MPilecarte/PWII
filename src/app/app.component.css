@@ -1,0 +1,89 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+/* h1, h2, h3{
+  color:blueviolet;
+  text-shadow: 1PX 2PX 2px;
+  background-color: rgb(241, 209, 240);
+  padding-left: 100px;
+  border-radius: 9px;
+  margin-bottom: 20px;
+} */
+
+
+#tudo
+{
+  position: relative;
+  background-color: rgb(217, 177, 255);
+  height: 700px;
+  width: 98vw;
+  margin-left: 12px;
+}
+#cabecalho
+{
+  position: absolute;
+  top: 10px;
+  height: 70px;
+  width: 96.6vw;
+  margin-left: 10px;
+  background-color: rgb(147, 99, 192);
+  border-radius: 3px;
+
+}
+div#logo{
+  position: absolute;
+  background-color: #60219b;
+  color: #fff;
+  height: 50px;
+  width: 70px;
+  top: 10px;
+  left: 10px;
+  text-align: center;
+  border-radius: 4px;
+}
+.contatos{
+  background-color: #410e70;
+  height: 50px;
+  width: 70px;
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+.rodape{
+  background-color: rgb(46, 5, 85);
+  height: 70px;
+  width: 98vw;
+  position: absolute;
+  bottom: 0;
+
+}
+.centro{
+  background-color:  #a26ed3;
+  height: 510px;
+  width: 96.6vw;
+  margin-left: 10px;
+  position: absolute;
+  top: 100px;
+  border-radius: 3px;
+}
+.menu-vertical
+{
+  background-color: #b286df;
+  height: 470px;
+  width: 90px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.menu-horizontal{
+  background-color: #7e45b6;
+  height: 90px;
+  width: 1200px;
+  margin-left: 200px;
+  position: absolute;
+  top: 23px;
+  border-radius: 5px;
+}
